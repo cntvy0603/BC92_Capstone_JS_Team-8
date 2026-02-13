@@ -1,0 +1,10 @@
+.product-img{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all
+}
+
+table th, table td {
+  vertical-align: middle !important;
+}
+
